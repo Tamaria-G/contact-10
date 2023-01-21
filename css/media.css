@@ -45,7 +45,10 @@
         align-items: center;
     }
     textarea {
-
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    input {
         margin-bottom: 10px;
     }
     .input-wrapper {
